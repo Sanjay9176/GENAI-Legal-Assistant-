@@ -1,0 +1,78 @@
+BEFORE THE HON’BLE [DISTRICT / STATE / NATIONAL] CONSUMER DISPUTES REDRESSAL COMMISSION
+AT [CITY_NAME]
+COMPLAINT NO. [COMPLAINT_NO] OF 20[YY]
+IN THE MATTER OF:
+
+[COMPLAINANT_NAME]
+... Complainant
+
+VERSUS
+
+[OPPOSITE_PARTY_NAME]
+[OPPOSITE_PARTY_ADDRESS]
+... Opposite Party / Respondent
+
+WRITTEN STATEMENT / REPLY
+ON BEHALF OF THE OPPOSITE PARTY
+
+RESPECTFULLY SHOWETH:
+
+PRELIMINARY OBJECTIONS
+
+That the present complaint is wholly misconceived, groundless, and unsustainable in law and is liable to be dismissed at the threshold.
+
+That this Hon’ble Commission lacks the jurisdiction to entertain this complaint as the matter is [SPECIFY_REASON, e.g., “a purely civil dispute” / “not a consumer dispute” / “related to a commercial purpose”].
+
+That the Complainant is not a consumer within the meaning of Section 2(7) of the Consumer Protection Act, 2019, as the goods/services were availed for a [COMMERCIAL_PURPOSE / FOR_RESALE].
+
+That the complaint suffers from non-joinder of necessary parties, namely [NAME_OF_PARTY_NOT_JOINED], without whom the dispute cannot be properly adjudicated.
+
+That the complaint is barred by limitation under Section 69 of the Consumer Protection Act, as the alleged cause of action arose on [DATE_OF_CAUSE_OF_ACTION] whereas the complaint was filed on [DATE_OF_FILING].
+
+That this Hon’ble Commission does not have the [PECUNIARY / TERRITORIAL] jurisdiction to adjudicate this complaint because [STATE_REASON, e.g., “the cause of action arose outside its territorial limits” or “the value exceeds its pecuniary jurisdiction”].
+
+That the complaint is frivolous, vexatious, and filed only to harass the Opposite Party, and is liable to be dismissed with exemplary costs under Section 26 of the Act.
+
+REPLY ON MERITS (PARA-WISE)
+
+That Para 1 of the complaint is a matter of record and needs no reply. (Or “Denied for want of knowledge.”)
+
+That Para 2 of the complaint is admitted to the extent of [STATE_ADMITTED_FACT, e.g., “the Complainant purchased the product on [DATE]”]. The remaining allegations are false and denied. It is submitted that [STATE_YOUR_VERSION].
+
+That Para 3 of the complaint, alleging [DEFECT / DEFICIENCY_ALLEGED_BY_COMPLAINANT], is denied. The Opposite Party submits that [COUNTER_FACTS, e.g., “the product was in perfect working condition and inspected before delivery” / “the delay occurred due to factors beyond control”].
+
+That Para 4 of the complaint is wrong and denied. The allegations regarding [SPECIFIC_ALLEGATION] are baseless and contrary to record.
+
+That without prejudice to the above, it is submitted that [MENTION_GOODWILL_ACTION, e.g., “as a gesture of goodwill, service/repair was offered free of cost but the Complainant refused”].
+
+That all other allegations not specifically admitted are denied in toto.
+
+PRAYER
+
+In view of the foregoing, it is most respectfully prayed that this Hon’ble Commission may kindly be pleased to:
+a) Dismiss the present complaint with exemplary costs; and
+b) Pass any other or further order as this Hon’ble Commission deems fit and proper in the facts and circumstances of the case.
+
+Place: [PLACE]
+Date: [DATE]
+
+(Signature)
+[OPPOSITE_PARTY_REPRESENTATIVE_NAME]
+[DESIGNATION, e.g., Proprietor / Manager / Authorized Representative]
+For [OPPOSITE_PARTY_NAME]
+(Opposite Party / Deponent)
+
+THROUGH COUNSEL
+(Signature)
+[ADVOCATE_NAME]
+Advocate
+[BAR_ENROLLMENT_NO]
+
+VERIFICATION
+
+I, [OPPOSITE_PARTY_REPRESENTATIVE_NAME], S/o / D/o [FATHER_NAME], aged [AGE] years, being the [DESIGNATION, e.g., Proprietor] of the Opposite Party, at [OFFICE_ADDRESS], do hereby verify that the contents of paragraphs [PARA_NUMBERS_OF_PO] of the Preliminary Objections and paragraphs [PARA_NUMBERS_ON_MERITS] of the Reply on Merits are true and correct to my personal knowledge and belief, and those based on legal advice are believed to be true.
+
+Verified at [PLACE], this [DAY] day of [MONTH], 20[YY].
+
+(Signature)
+DEPONENT

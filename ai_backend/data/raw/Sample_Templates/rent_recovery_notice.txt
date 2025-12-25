@@ -1,0 +1,33 @@
+LEGAL NOTICE FOR NON-PAYMENT OF RENT
+
+To,
+[TENANT'S NAME]
+[PROPERTY_ADDRESS]
+
+Date: [DATE_OF_SENDING]
+
+Subject: Legal Notice for non-payment of rent for the property [PROPERTY_ADDRESS]
+
+Sir/Madam,
+
+Under the instructions of my client, [LANDLORD'S NAME], owner of the premises at [PROPERTY_ADDRESS], I do hereby serve upon you the following legal notice:
+
+1. That you are a tenant in the property at [PROPERTY_ADDRESS] under a rent agreement dated [DATE_OF_AGREEMENT].
+
+2. That the rent for the said premises is ₹[RENT_AMOUNT] per month.
+
+3. That you, the addressee, have failed to pay the rent for a period of [MONTHS_UNPAID] (e.g., "2 months"), specifically from [START_MONTH] to [END_MONTH].
+
+4. That the total outstanding amount due from you is ₹[TOTAL_DUE] (calculated as [MONTHS_UNPAID] x ₹[RENT_AMOUNT]).
+
+I, therefore, call upon you, the addressee, to pay my client the total outstanding rent of ₹[TOTAL_DUE] within 15 (fifteen) days from the receipt of this legal notice.
+
+Should you fail to comply with this notice, my client will be constrained to initiate appropriate legal proceedings against you for recovery of the said amount and for your eviction from the property, at your sole risk, cost, and consequence.
+
+A copy of this notice is kept in my office for record and further action.
+
+Yours faithfully,
+
+(Advocate's Signature)
+[ADVOCATE'S NAME]
+Advocate

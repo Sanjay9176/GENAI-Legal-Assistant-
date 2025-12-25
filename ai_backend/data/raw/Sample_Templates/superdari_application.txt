@@ -1,0 +1,47 @@
+IN THE COURT OF [COURT_NAME_AND_JURISDICTION]
+(e.g., “THE CHIEF JUDICIAL MAGISTRATE, [DISTRICT_NAME]”)
+
+Case Title:
+STATE
+VERSUS
+[ACCUSED_NAME]
+
+FIR No.: [FIR_NO]
+Dated: [DATE_OF_FIR]
+Under Section: [SECTIONS_OF_LAW_APPLIED] (e.g., “279/337 IPC”)
+Police Station: [POLICE_STATION_NAME]
+
+Subject:
+
+Application for releasing the vehicle [VEHICLE_MAKE_MODEL_AND_NUMBER] on Superdari to the applicant.
+
+MOST RESPECTFULLY SHOWETH:
+
+That the applicant is the lawful and registered owner of the vehicle, [VEHICLE_MAKE_MODEL] bearing Registration No. [VEHICLE_REGISTRATION_NO]. (A copy of the Registration Certificate is attached herewith.)
+
+That the said vehicle was seized and taken into custody by the police of Police Station [POLICE_STATION_NAME] in connection with the above-mentioned FIR and is presently lying in custody at [CUSTODY_LOCATION].
+
+That the said vehicle is no longer required for the purpose of investigation by the police.
+
+That the applicant requires the said vehicle for daily use and personal work. If the vehicle remains in police custody, its condition will deteriorate due to non-use and exposure to weather conditions.
+
+That the applicant undertakes to produce the said vehicle before this Hon’ble Court as and when directed and further undertakes not to sell, transfer, alienate, or alter the condition of the said vehicle during the pendency of the trial.
+
+PRAYER
+
+It is, therefore, most respectfully prayed that this Hon’ble Court may kindly be pleased to pass an order for release of the said vehicle [VEHICLE_REGISTRATION_NO] on Superdari to the applicant, in the interest of justice.
+
+And for this act of kindness, the applicant as in duty bound shall ever pray.
+
+Dated: [DATE_OF_APPLICATION]
+
+APPLICANT
+[APPLICANT_NAME]
+S/o / D/o [FATHER_NAME]
+R/o [APPLICANT_ADDRESS]
+
+THROUGH COUNSEL
+(Signature)
+[ADVOCATE_NAME]
+Advocate
+[ADVOCATE_BAR_ENROLLMENT_NO]

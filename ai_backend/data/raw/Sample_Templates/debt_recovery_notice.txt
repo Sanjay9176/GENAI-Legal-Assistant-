@@ -1,0 +1,53 @@
+REGD. AD / SPEED POST
+
+From:
+[ADVOCATE_NAME]
+[ADVOCATE_DESIGNATION]
+[ADVOCATE_OFFICE_ADDRESS]
+[ADVOCATE_CITY_STATE_ZIP]
+[ADVOCATE_EMAIL]
+[ADVOCATE_PHONE]
+
+Date: [DATE_OF_NOTICE]
+
+To,
+[DEBTOR_NAME]
+[DEBTOR_ADDRESS]
+[DEBTOR_CITY_STATE_ZIP]
+
+Subject: Legal Notice for Recovery of Loan Amount of Rs. [LOAN_AMOUNT]/-
+
+Dear [DEBTOR_NAME],
+
+Under the instructions and authority from my client, [CLIENT_NAME] (son/daughter of [CLIENT_FATHERS_NAME]), residing at [CLIENT_ADDRESS], I hereby serve upon you the following legal notice:
+
+That on [DATE_OF_LOAN], you approached my client for a friendly loan of Rs. [LOAN_AMOUNT]/- (Rupees [LOAN_AMOUNT_WORDS] only) citing your personal financial needs.
+
+That my client, in good faith, advanced the said amount to you on [DATE_OF_TRANSFER] via [MODE_OF_TRANSFER] (e.g., "bank transfer to your account", "cheque no. [CHEQUE_NO]", "cash").
+
+That at the time of advancing the loan, you had agreed and promised to repay the said amount within a period of [REPAYMENT_PERIOD] (e.g., "three months") / or by the specific date [DUE_DATE].
+
+That despite the expiry of the said period, you have failed and neglected to repay the said amount to my client. My client has sent you repeated oral and written reminders, but you have paid no heed to them.
+
+That as of the date of this notice, the full principal sum of Rs. [LOAN_AMOUNT]/- remains due and payable by you to my client.
+
+I, therefore, call upon you to make the payment of the aforesaid outstanding amount of Rs. [LOAN_AMOUNT]/- (Rupees [LOAN_AMOUNT_WORDS] only) to my client, within a period of 15 (fifteen) days from the date of receipt of this notice. The payment can be made via [PREFERRED_PAYMENT_MODE_BY_CLIENT].
+
+Kindly note that if you fail to comply with the demand herein, my client shall be constrained to initiate appropriate legal proceedings (both civil and criminal) against you in a competent court of law for the recovery of the amount, along with interest and costs, at your sole risk and consequence.
+
+You are also liable to pay a sum of Rs. [NOTICE_COST]/- towards the cost of this legal notice.
+
+A copy of this notice is retained in my office for further necessary action.
+
+Yours faithfully,
+
+(Signature)
+[ADVOCATE_NAME]
+
+Enclosures: (if any)
+
+[COPY_OF_BANK_TRANSACTION_RECEIPT]
+
+[COPY_OF_PROMISSORY_NOTE_OR_LOAN_AGREEMENT]
+
+[COPY_OF_COMMUNICATION_LOG_E_G_WHATSAPP_EMAIL]

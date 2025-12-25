@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+venv_stable/
+*.pyc
+
+# Secrets (CRITICAL!)
+.env
+
+# Database
+db/
+*.sqlite3
+
+# Logs
+*.log
+
+# Processed Data
+# We want to version-control the RAW data, but not the
+# large, generated CSV file.
+data/processed/
+
+# IDE / OS specific
+.vscode/
+.DS_Store
+
+#json file
+*.json

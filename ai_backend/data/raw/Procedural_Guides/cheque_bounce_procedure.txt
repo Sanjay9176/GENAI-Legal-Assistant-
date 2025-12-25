@@ -1,0 +1,18 @@
+PROCEDURE FOR CHEQUE BOUNCE (SECTION 138, NEGOTIABLE INSTRUMENTS ACT, 1881)
+
+This guide explains the steps to take when a cheque is dishonoured by the bank.
+
+Step 1: PRESENTATION
+Present the cheque to the bank within three months from the date it was drawn. If it bounces, the bank will issue a return memo stating the reason (e.g., “Insufficient Funds”).
+
+Step 2: LEGAL DEMAND NOTICE
+Within 30 days of receiving the dishonour memo, the payee must send a Legal Demand Notice to the drawer (the person who issued the cheque), demanding payment of the cheque amount.
+
+Step 3: PAYMENT WINDOW
+The drawer has 15 days from the date of receiving the notice to make the payment in full.
+
+Step 4: FILING COMPLAINT
+If payment is not made within 15 days, the payee may file a criminal complaint before the Magistrate under Section 138. This complaint must be filed within one month from the expiry of the 15-day payment period.
+
+Step 5: COURT PROCEEDINGS
+If accepted, the court issues summons to the drawer, and the criminal trial process begins. The drawer can face imprisonment up to 2 years or fine up to twice the cheque amount, or both.

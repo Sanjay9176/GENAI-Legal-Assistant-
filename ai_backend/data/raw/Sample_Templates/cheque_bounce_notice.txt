@@ -1,0 +1,50 @@
+REGD. AD / SPEED POST
+
+From:
+[ADVOCATE_NAME]
+[ADVOCATE_DESIGNATION]
+[ADVOCATE_OFFICE_ADDRESS]
+[ADVOCATE_CITY_STATE_ZIP]
+[ADVOCATE_EMAIL]
+[ADVOCATE_PHONE]
+
+Date: [DATE_OF_NOTICE]
+
+To,
+[DRAWER_NAME]
+[DRAWER_DESIGNATION_IF_APPLICABLE]
+[DRAWER_ADDRESS]
+[DRAWER_CITY_STATE_ZIP]
+
+Subject: Legal Notice under Section 138 of the Negotiable Instruments Act, 1881, for Dishonour of Cheque
+
+Dear Sir/Madam,
+
+Under the instructions and authority from my client, [CLIENT_NAME], [CLIENT_DESIGNATION/PROPRIETOR] of [CLIENT_COMPANY_NAME] (if applicable), having its office/residence at [CLIENT_ADDRESS], I hereby serve upon you the following legal notice:
+
+That my client is a [CLIENT_BUSINESS_DESCRIPTION] (e.g., "company engaged in the trade of computer hardware" or "a professional providing services").
+
+That towards a business transaction, you approached my client to purchase [DESCRIPTION_OF_GOODS_OR_SERVICES].
+
+That against the said purchase, my client raised an Invoice No. [INVOICE_NO] dated [INVOICE_DATE] for a sum of Rs. [INVOICE_AMOUNT]/- (Rupees [INVOICE_AMOUNT_WORDS] only), which was duly delivered to you.
+
+That in discharge of your legal liability to pay the amount of the aforesaid invoice, you issued a Cheque bearing No. [CHEQUE_NO] dated [CHEQUE_DATE] for a sum of Rs. [CHEQUE_AMOUNT]/- (Rupees [CHEQUE_AMOUNT_WORDS] only), drawn on [BANK_NAME], [BANK_BRANCH_ADDRESS].
+
+That my client presented the said cheque for payment through their bankers, [CLIENT_BANK_NAME], but to my client's shock and surprise, the cheque was returned dishonoured by your bank.
+
+The dishonour was communicated to my client via a cheque return memo dated [MEMO_DATE], citing the reason "[REASON_FOR_DISHONOUR]" (e.g., "Funds Insufficient", "Account Closed", "Payment Stopped by Drawer").
+
+It is evident that you issued the said cheque with the full knowledge that it would be dishonoured upon presentation, with an intention to cheat and defraud my client.
+
+I, therefore, call upon you, through this legal notice, to pay the said cheque amount of Rs. [CHEQUE_AMOUNT]/- (Rupees [CHEQUE_AMOUNT_WORDS] only) to my client within a period of 15 (fifteen) days from the date of receipt of this notice.
+
+Kindly note that if you fail to make the said payment within the stipulated 15 days, my client shall be constrained to initiate criminal proceedings against you under Section 138 of the Negotiable Instruments Act, 1881, and also civil proceedings for recovery of the amount, at your sole risk, cost, and consequences.
+
+You are also liable to pay a sum of Rs. [NOTICE_COST]/- towards the cost of this legal notice.
+
+A copy of this notice is retained in my office for further necessary action.
+
+Yours faithfully,
+
+(Signature)
+[ADVOCATE_NAME]

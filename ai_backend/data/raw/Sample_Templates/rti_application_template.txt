@@ -1,0 +1,64 @@
+To,
+The Public Information Officer (PIO)
+[NAME_OF_THE_PUBLIC_AUTHORITY / DEPARTMENT]
+[FULL_ADDRESS_OF_THE_OFFICE]
+[CITY, STATE, PIN_CODE]
+
+Date: [DATE_OF_APPLICATION]
+Place: [PLACE]
+
+Subject: Application under Section 6(1) of the Right to Information (RTI) Act, 2005
+
+1. FULL NAME OF THE APPLICANT:
+[APPLICANT_FULL_NAME]
+
+2. ADDRESS:
+[APPLICANT_FULL_ADDRESS]
+[CITY, STATE, PIN_CODE]
+
+3. CONTACT DETAILS:
+Phone / Mobile No.: [APPLICANT_PHONE]
+E-mail: [APPLICANT_EMAIL]
+
+4. PARTICULARS OF INFORMATION REQUIRED:
+(Please provide specific details of the information required. Use clear, numbered points.)
+
+(i) [QUESTION_1]
+(ii) [QUESTION_2]
+(iii) [QUESTION_3]
+(iv) ...
+
+5. PERIOD FOR WHICH INFORMATION IS SOUGHT:
+[TIME_PERIOD_E_G_FROM_DATE_TO_DATE]
+
+6. TYPE OF INFORMATION REQUIRED:
+(Please mark as applicable)
+[ ] Copy of documents
+[ ] Inspection of records/works
+[ ] Sample of material
+[ ] Other: [SPECIFY_OTHER_FORMAT]
+
+7. APPLICATION FEE DETAILS:
+I have paid the application fee of Rs. 10/-.
+Mode of Payment: [INDIAN_POSTAL_ORDER / DD / CASH_RECEIPT]
+IPO / DD / Receipt No.: [FEE_INSTRUMENT_NUMBER]
+Dated: [FEE_INSTRUMENT_DATE]
+
+8. BELOW POVERTY LINE (BPL) STATUS:
+(Mark one. If 'Yes', attach proof and no fee is required.)
+[ ] Yes, I belong to the Below Poverty Line (BPL) category. (Proof attached)
+[ ] No, I do not belong to the BPL category.
+
+DECLARATION
+I, [APPLICANT_FULL_NAME], hereby declare that I am a citizen of India. I state that the information sought does not fall within the restrictions contained in Section 8 or 9 of the RTI Act, 2005, and to the best of my knowledge, it pertains to your office.
+
+Yours faithfully,
+
+(Signature of Applicant)
+[APPLICANT_FULL_NAME]
+
+Enclosures:
+
+1. [APPLICATION_FEE_INSTRUMENT_E_G_IPO]
+
+2. [COPY_OF_BPL_CARD_IF_APPLICABLE]

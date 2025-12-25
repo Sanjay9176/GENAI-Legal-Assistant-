@@ -1,0 +1,118 @@
+BEFORE THE HON’BLE [DISTRICT/STATE/NATIONAL] CONSUMER DISPUTES REDRESSAL COMMISSION AT [CITY_NAME]
+
+COMPLAINT NO. [COMPLAINT_NO] OF 20[YY]
+(To be filled by the Commission)
+
+IN THE MATTER OF:
+
+[COMPLAINANT_FULL_NAME]
+[COMPLAINANT_AGE], [COMPLAINANT_OCCUPATION]
+[COMPLAINANT_FULL_ADDRESS]
+[COMPLAINANT_PHONE]
+[COMPLAINANT_EMAIL]
+... Complainant
+
+VERSUS
+
+[OPPONENT_FULL_NAME]
+[OPPONENT_DESIGNATION_TITLE] (e.g., Proprietor, Managing Director)
+[OPPONENT_COMPANY_NAME] (if applicable)
+[OPPONENT_FULL_ADDRESS_WITH_PIN]
+[OPPONENT_PHONE]
+[OPPONENT_EMAIL]
+... Opposite Party
+
+SUBJECT: COMPLAINT UNDER SECTION [SECTION_NO] OF THE CONSUMER PROTECTION ACT, 2019
+(Note: Use Section 35 for District, Section 47 for State, Section 58 for National Commission)
+
+RESPECTIFULLY SHOWETH:
+
+1. INTRODUCTION
+(Provide a brief introduction of the Complainant and the Opposite Party. E.g., "The Complainant is an individual consumer, and the Opposite Party is a company engaged in the business of...")
+[WRITE_INTRODUCTION_HERE]
+
+2. TRANSACTION / FACTS OF THE CASE
+(Describe the transaction complained of. Include particulars of goods purchased or services availed. Mention dates, amounts paid, and attach copies of bills, receipts, or invoices as annexures.)
+[WRITE_TRANSACTION_DETAILS_HERE]
+
+(If applicable, provide details of any warranty or guarantee given by the Opposite Party and attach a copy.)
+[WRITE_WARRANTY_GUARANTEE_DETAILS_HERE]
+
+3. DEFECT IN GOODS / DEFICIENCY IN SERVICE / UNFAIR TRADE PRACTICE
+(Explain the grievance clearly. Describe the specific defect in the goods or the deficiency in the service. If it is an Unfair Trade Practice, explain how. Attach photos, emails, job sheets, or other evidence as annexures.)
+[WRITE_DEFECT_OR_DEFICIENCY_DETAILS_HERE]
+
+4. ATTEMPTS AT RECTIFICATION
+(Describe all efforts made by you to resolve the issue with the Opposite Party before filing this complaint. Mention personal visits, phone calls, written correspondence, emails, or any legal notice sent. Attach copies.)
+[WRITE_RECTIFICATION_ATTEMPTS_HERE]
+
+5. JURISDICTION
+(State how this Hon'ble Commission has the jurisdiction to hear this complaint.)
+a) Pecuniary Jurisdiction: The total value of the goods/services paid as consideration and the compensation claimed is Rs. [TOTAL_CLAIM_AMOUNT], which is within the pecuniary jurisdiction of this Hon'ble Commission.
+b) Territorial Jurisdiction: The cause of action arose at [CITY_WHERE_EVENT_HAPPENED] OR the Opposite Party resides/works for gain at [OPPONENT_CITY], which is within the territorial jurisdiction of this Hon'Ble Commission.
+
+6. CAUSE OF ACTION AND LIMITATION
+(State the date when the cause of action first arose (e.g., the date the defect was found, the date service was denied, or the date of the last communication). State that the complaint is being filed within the limitation period of two years as prescribed under Section 69 of the Consumer Protection Act, 2019.)
+[STATE_CAUSE_OF_ACTION_DATE_AND_DETAILS]
+
+7. DETAILS OF FEES PAID
+(This is required for claims above Rs. 5 Lakh)
+Claim Amount: Rs. [TOTAL_CLAIM_AMOUNT]
+Fee Paid: Rs. [FEE_AMOUNT]
+Mode of Payment: [DEMAND_DRAFT_NO / RTGS_DETAILS]
+Dated: [PAYMENT_DATE]
+Drawn on: [BANK_NAME]
+
+8. PRAYER / RELIEF CLAIMED
+It is, therefore, most respectfully prayed that this Hon'ble Commission may kindly be pleased to direct the Opposite Party to:
+(a) [PRAYER_1: e.g., To refund the amount of Rs. [REFUND_AMOUNT] with interest @ [INTEREST_RATE]% p.a. from [DATE] until realization.]
+(b) [PRAYER_2: e.g., To replace the defective [PRODUCT_NAME] with a new, defect-free product.]
+(c) [PRAYER_3: e.g., To pay compensation of Rs. [COMPENSATION_AMOUNT] for the mental agony, harassment, and financial loss suffered by the Complainant.]
+(d) [PRAYER_4: e.g., To pay Rs. [LITIGATION_COST_AMOUNT] towards the cost of this complaint.]
+(e) [PRAYER_5: Any other relief which this Hon'ble Commission deems fit and proper in the interest of justice.]
+
+Place: [PLACE]
+Date: [DATE_OF_FILING]
+
+(Signature)
+[COMPLAINANT_NAME]
+Complainant
+
+VERIFICATION
+
+I, [COMPLAINANT_NAME], the Complainant above named, do hereby solemnly verify that the contents of my above complaint (paras 1 to 8) and the prayer clause are true and correct to my knowledge and belief, no part of it is false and nothing material has been concealed therein.
+
+Verified this [DAY] day of [MONTH], 20[YY] at [PLACE].
+
+(Signature)
+Complainant / Deponent
+
+AFFIDAVIT IN SUPPORT OF THE COMPLAINT
+
+BEFORE THE HON’BLE [COMMISSION_NAME] AT [CITY]
+COMPLAINT NO. [COMPLAINT_NO] OF 20[YY]
+
+IN THE MATTER OF:
+[COMPLAINANT_NAME] ... Complainant
+Versus
+[OPPONENT_NAME] ... Opposite Party
+
+I, [COMPLAINANT_NAME], son/daughter of [FATHER_NAME], aged [COMPLAINANT_AGE] years, resident of [COMPLAINANT_FULL_ADDRESS], do hereby solemnly affirm and declare as under:
+
+That I am the Complainant in the above case, thoroughly conversant with the facts and circumstances of the present case and am competent to swear this affidavit.
+
+That the facts contained in my accompanying complaint (paras 1 to 8) may be read as an integral part of this affidavit and are true and correct to my knowledge.
+
+That the annexures attached herewith are true copies of their respective originals, which are in my possession.
+
+(Signature)
+DEPONENT
+
+Verification
+
+I, the above-named deponent, do hereby solemnly verify that the contents of my above affidavit are true and correct to my knowledge, no part of it is false and nothing material has been concealed therein.
+
+Verified this [DAY] day of [MONTH], 20[YY] at [PLACE].
+
+(Signature)
+DEPONENT
