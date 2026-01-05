@@ -9,72 +9,115 @@ import {
   DialogTitle,
 } from "@/components/ui/dialog";
 import { Card } from "@/components/ui/card";
-import { Scale, ShieldAlert, Users } from "lucide-react"; // Icons for clarity
+import { Scale, ShieldAlert, Users } from "lucide-react";
 
 export function TriageDialog({ isOpen, onClose, userDescription, onConfirm }) {
-  
-  // In Phase 4, these options will come dynamically from the Python Backend.
-  // For now, we hardcode them to simulate the "AI Triage" experience.
+
   const options = [
     {
       id: "civil",
       title: "Civil Dispute",
       desc: "Property boundaries, contracts, or money recovery.",
-      icon: <Scale className="h-6 w-6 text-blue-500" />,
-      code: "CPC 1908"
+      icon: <Scale className="h-5 w-5 sm:h-6 sm:w-6 text-blue-500" />,
+      code: "CPC 1908",
     },
     {
       id: "criminal",
       title: "Criminal Offense",
       desc: "Threats of violence, theft, or physical harm.",
-      icon: <ShieldAlert className="h-6 w-6 text-red-500" />,
-      code: "BNS 2023"
+      icon: <ShieldAlert className="h-5 w-5 sm:h-6 sm:w-6 text-red-500" />,
+      code: "BNS 2023",
     },
     {
       id: "tort",
       title: "Nuisance / Civic Issue",
       desc: "Noise complaints, garbage dumping, or municipal issues.",
-      icon: <Users className="h-6 w-6 text-green-500" />,
-      code: "Tort Law"
-    }
+      icon: <Users className="h-5 w-5 sm:h-6 sm:w-6 text-green-500" />,
+      code: "Tort Law",
+    },
   ];
 
   return (
     <Dialog open={isOpen} onOpenChange={onClose}>
-      <DialogContent className="sm:max-w-[600px]">
+      <DialogContent
+        className="
+          w-[95vw]
+          max-w-[95vw]
+          sm:max-w-[520px]
+          md:max-w-[600px]
+          px-4 sm:px-6
+        "
+      >
         <DialogHeader>
-          <DialogTitle>Clarify Your Situation</DialogTitle>
-          <DialogDescription>
-            To apply the correct laws, please categorize your issue based on the description:
-            <br/>
-            <span className="italic text-slate-600">"{userDescription?.substring(0, 50)}..."</span>
+          <DialogTitle className="text-base sm:text-lg">
+            Clarify Your Situation
+          </DialogTitle>
+          <DialogDescription className="text-sm sm:text-base">
+            To apply the correct laws, please categorize your issue:
+            <br />
+            <span className="italic text-slate-600 break-words">
+              “{userDescription?.substring(0, 80)}...”
+            </span>
           </DialogDescription>
         </DialogHeader>
 
-        {/* The 3 Options Grid */}
-        <div className="grid gap-4 py-4">
+        {/* Options */}
+        <div className="grid gap-3 sm:gap-4 py-4">
           {options.map((option) => (
-            <Card 
+            <Card
               key={option.id}
-              className="p-4 cursor-pointer hover:border-blue-500 hover:bg-blue-50 transition-all flex items-center gap-4"
+              className="
+                p-3 sm:p-4
+                cursor-pointer
+                transition-all
+                flex items-start sm:items-center
+                gap-3 sm:gap-4
+                hover:border-blue-500
+                hover:bg-blue-50
+                active:scale-[0.98]
+              "
               onClick={() => onConfirm(option.id)}
             >
-              <div className="p-2 bg-white rounded-full shadow-sm border">
+              {/* Icon */}
+              <div className="p-2 bg-white rounded-full shadow-sm border shrink-0">
                 {option.icon}
               </div>
-              <div className="flex-1">
-                <h4 className="font-semibold text-slate-800">{option.title}</h4>
-                <p className="text-sm text-slate-500">{option.desc}</p>
+
+              {/* Text */}
+              <div className="flex-1 min-w-0">
+                <h4 className="font-semibold text-slate-800 text-sm sm:text-base truncate">
+                  {option.title}
+                </h4>
+                <p className="text-xs sm:text-sm text-slate-500 leading-snug">
+                  {option.desc}
+                </p>
               </div>
-              <div className="text-xs font-mono bg-slate-100 px-2 py-1 rounded">
+
+              {/* Code */}
+              <div
+                className="
+                  text-[10px] sm:text-xs
+                  font-mono
+                  bg-slate-100
+                  px-2 py-1
+                  rounded
+                  whitespace-nowrap
+                "
+              >
                 {option.code}
               </div>
             </Card>
           ))}
         </div>
 
-        <DialogFooter>
-          <Button variant="ghost" onClick={() => onClose(false)}>Cancel</Button>
+        <DialogFooter className="flex flex-col sm:flex-row gap-2 sm:gap-0">
+          <Button
+            variant="ghost"
+            className="w-full sm:w-auto"
+            onClick={() => onClose(false)}
+          >
+            Cancel
+          </Button>
         </DialogFooter>
       </DialogContent>
     </Dialog>

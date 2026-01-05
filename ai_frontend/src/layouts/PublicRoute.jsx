@@ -6,11 +6,12 @@ export default function PublicRoute({ children }) {
   const { user, loading } = useAuth();
 
   if (loading) {
-    // ✅ CENTERED LOADING SCREEN
     return (
-      <div className="h-screen w-full flex flex-col items-center justify-center bg-slate-50">
-        <Loader2 className="w-10 h-10 text-blue-600 animate-spin mb-4" />
-        <p className="text-slate-500 font-medium">Loading...</p>
+      <div className="min-h-screen w-full flex flex-col items-center justify-center bg-slate-50 px-4 text-center">
+        <Loader2 className="w-8 h-8 sm:w-10 sm:h-10 text-blue-600 animate-spin mb-4" />
+        <p className="text-sm sm:text-base text-slate-500 font-medium">
+          Loading…
+        </p>
       </div>
     );
   }

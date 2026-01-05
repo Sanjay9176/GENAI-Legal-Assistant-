@@ -3,58 +3,70 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { useApp } from "@/context/AppContext";
 import { Button } from "@/components/ui/button";
-import { Card, CardContent, CardDescription, CardHeader, CardTitle, CardFooter } from "@/components/ui/card";
-import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardHeader,
+  CardTitle,
+  CardFooter,
+} from "@/components/ui/card";
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from "@/components/ui/select";
 import { Label } from "@/components/ui/label";
 
 // Simple Database of Locations
 const INDIA_LOCATIONS = {
-  "Karnataka": ["Bengaluru Urban", "Bengaluru Rural", "Mysuru", "Hubballi-Dharwad"],
-  "Maharashtra": ["Mumbai City", "Mumbai Suburban", "Pune", "Nagpur"],
-  "Delhi": ["New Delhi", "North Delhi", "South Delhi"],
-  "Tamil Nadu": ["Chennai", "Coimbatore", "Madurai"]
+  Karnataka: ["Bengaluru Urban", "Bengaluru Rural", "Mysuru", "Hubballi-Dharwad"],
+  Maharashtra: ["Mumbai City", "Mumbai Suburban", "Pune", "Nagpur"],
+  Delhi: ["New Delhi", "North Delhi", "South Delhi"],
+  "Tamil Nadu": ["Chennai", "Coimbatore", "Madurai"],
 };
 
 export default function Onboarding() {
   const { updateJurisdiction } = useApp();
   const navigate = useNavigate();
 
-  // Local state for the dropdowns
   const [selectedState, setSelectedState] = useState("");
   const [selectedDistrict, setSelectedDistrict] = useState("");
 
-  // --- LOGIC: Dynamic State Change ---
   const handleStateChange = (newState) => {
     setSelectedState(newState);
-    setSelectedDistrict(""); // RESET District whenever State changes
+    setSelectedDistrict("");
   };
 
   const handleContinue = () => {
     if (!selectedState || !selectedDistrict) return;
-    
-    // 1. Save to Global Context
     updateJurisdiction(selectedState, selectedDistrict);
-    
-    // 2. Move to the Dashboard
     navigate("/dashboard");
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-slate-50 p-4">
+    <div className="min-h-screen flex items-center justify-center bg-slate-50 px-4 py-6">
       <Card className="w-full max-w-lg shadow-lg">
-        <CardHeader>
-          <CardTitle className="text-2xl text-blue-700">Jurisdiction Setup</CardTitle>
-          <CardDescription>
-            Legal procedures vary by location. Please select where the incident occurred.
+        {/* HEADER */}
+        <CardHeader className="space-y-1">
+          <CardTitle className="text-xl sm:text-2xl text-blue-700">
+            Jurisdiction Setup
+          </CardTitle>
+          <CardDescription className="text-sm">
+            Legal procedures vary by location. Please select where the incident
+            occurred.
           </CardDescription>
         </CardHeader>
 
-        <CardContent className="space-y-6">
-          {/* State Selector */}
+        {/* CONTENT */}
+        <CardContent className="space-y-5">
+          {/* STATE */}
           <div className="space-y-2">
-            <Label>Select State</Label>
-            <Select onValueChange={handleStateChange} value={selectedState}>
-              <SelectTrigger>
+            <Label className="text-sm">Select State</Label>
+            <Select value={selectedState} onValueChange={handleStateChange}>
+              <SelectTrigger className="w-full">
                 <SelectValue placeholder="Select State..." />
               </SelectTrigger>
               <SelectContent>
@@ -67,32 +79,37 @@ export default function Onboarding() {
             </Select>
           </div>
 
-          {/* District Selector (Dynamic) */}
+          {/* DISTRICT */}
           <div className="space-y-2">
-            <Label>Select District</Label>
-            <Select 
-              onValueChange={setSelectedDistrict} 
+            <Label className="text-sm">Select District</Label>
+            <Select
               value={selectedDistrict}
-              disabled={!selectedState} // Disable until state is picked
+              onValueChange={setSelectedDistrict}
+              disabled={!selectedState}
             >
-              <SelectTrigger>
-                <SelectValue placeholder={selectedState ? "Select District..." : "Choose State first"} />
+              <SelectTrigger className="w-full">
+                <SelectValue
+                  placeholder={
+                    selectedState ? "Select District..." : "Choose State first"
+                  }
+                />
               </SelectTrigger>
               <SelectContent>
-                {/* Only map the districts that belong to the selectedState */}
-                {selectedState && INDIA_LOCATIONS[selectedState].map((district) => (
-                  <SelectItem key={district} value={district}>
-                    {district}
-                  </SelectItem>
-                ))}
+                {selectedState &&
+                  INDIA_LOCATIONS[selectedState].map((district) => (
+                    <SelectItem key={district} value={district}>
+                      {district}
+                    </SelectItem>
+                  ))}
               </SelectContent>
             </Select>
           </div>
         </CardContent>
 
+        {/* FOOTER */}
         <CardFooter>
-          <Button 
-            className="w-full bg-blue-600 hover:bg-blue-700" 
+          <Button
+            className="w-full bg-blue-600 hover:bg-blue-700"
             onClick={handleContinue}
             disabled={!selectedState || !selectedDistrict}
           >

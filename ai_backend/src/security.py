@@ -1,8 +1,21 @@
 from datetime import datetime, timedelta
 from typing import Optional
 import jwt  # <--- WE ARE USING PyJWT ONLY
-from passlib.context import CryptContext
 from .config import settings
+import bcrypt # <--- 1. Import bcrypt directly
+
+# --- START FIX FOR PASSLIB + BCRYPT 4.0 ---
+# passlib tries to find 'bcrypt.__about__' which was removed in bcrypt 4.0.
+# We manually inject it back here so passlib doesn't crash.
+try:
+    bcrypt.__about__
+except AttributeError:
+    class About:
+        __version__ = bcrypt.__version__
+    bcrypt.__about__ = About()
+# --- END FIX ---
+
+from passlib.context import CryptContext
 
 # 1. Setup Password Hashing (Bcrypt)
 pwd_context = CryptContext(schemes=["bcrypt"], deprecated="auto")
