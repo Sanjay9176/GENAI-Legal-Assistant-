@@ -87,7 +87,7 @@ source venv/bin/activate
 
 # Install backend dependencies
 pip install -r requirements.txt
-```
+
 🔐 Environment Variables Configuration
 Create a .env file inside the server/ directory:
 
