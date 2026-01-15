@@ -46,7 +46,7 @@ This project is divided into two parts:
 
 ## 🔧 Backend Setup (FastAPI)
 
-```bash
+
 # Clone the repository
 git clone https://github.com/Sanjay9176/Gen-Vidhik-Sahayak.git
 cd Gen-Vidhik-Sahayak/server
@@ -132,6 +132,3 @@ Open a Pull Request
 
 👤 Author
 Sanjay Kumar Purohit
-
-markdown
-Copy code
